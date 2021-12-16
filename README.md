@@ -1,5 +1,7 @@
 ### Olá! Me chamo Ana Clara 👋
 
+- 😁 Seja bem vindo(a) ao meu GitHub!
+
 
 <div align="center">
   <a href="https://github.com/anaclwra">
