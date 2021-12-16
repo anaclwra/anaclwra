@@ -1,8 +1,5 @@
 ### Olá! Me chamo Ana Clara 👋
 
-- 👩‍💻 Sou iniciante na área da T.I
-- 📚 Estou estudando JavaScript 
-- 💻 Apaixonada por tecnologia 
 
 <div align="center">
   <a href="https://github.com/anaclwra">
