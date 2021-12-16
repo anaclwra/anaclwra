@@ -1,4 +1,4 @@
-### Olá! Me chamo Ana Clara 👋
+### Olá! Me chamo Ana Clara Schlickmann 👋
 
 - 😁 Seja bem vindo(a) ao meu GitHub!
 
